@@ -5,7 +5,8 @@ module.exports = {
     extend: {
       colors: {
         "default-black": "#0a0a0a",
-        "default-500": "#636363",
+        "default-black-500": "#636363",
+        "default-black-50": "#f2f2f2",
       },
       backgroundImage: {
         banner: "url('/public/images/banners/banner.jpg')",
