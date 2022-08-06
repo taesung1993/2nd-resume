@@ -14,7 +14,7 @@ export default function Gnb() {
   ];
   return (
     <section>
-      <nav className="w-full border-t border-b">
+      <nav className="w-full border-b">
         <TabMenu tabs={tabs} />
       </nav>
     </section>

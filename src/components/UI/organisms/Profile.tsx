@@ -7,7 +7,7 @@ export default function Profile() {
         <h1 className="md:text-2xl text-lg font-bold text-default-black md:mb-2 mb-1">
           윤태성(Mason)
         </h1>
-        <h3 className="md:text-lg text-sm text-default-500">
+        <h3 className="md:text-lg text-sm text-default-black-500">
           동료들과 일하며 즐거움을 느끼는 프론트엔드 개발자
         </h3>
       </div>
