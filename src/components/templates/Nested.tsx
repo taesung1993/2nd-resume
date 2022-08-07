@@ -15,7 +15,7 @@ export default function Nested() {
         <Profile />
         <Gnb />
       </header>
-      <main>
+      <main className="pb-10">
         <Outlet />
       </main>
     </Container>
